@@ -32,7 +32,7 @@
         "stof/doctrine-extensions-bundle": "1.1.0",
         "gedmo/doctrine-extensions": "2.3.9",
         "friendsofsymfony/jsrouting-bundle": "1.5.3",
-        "friendsofsymfony/rest-bundle": "1.4.2",
+        "friendsofsymfony/rest-bundle": "1.5.3",
         "friendsofsymfony/oauth-server-bundle": "1.4.2",
         "stfalcon/tinymce-bundle": "0.3.8",
         "white-october/pagerfanta-bundle": "1.0.2",
