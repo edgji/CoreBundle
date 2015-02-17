@@ -72,7 +72,7 @@
     "target-dir": "Claroline/CoreBundle",
     "extra": {
         "branch-alias": {
-            "dev-FOSRestBundle-1-5-3": "4.2.2"
+            "dev-FOSRestBundle-1-5-3": "4.x-dev"
         }
     }
 }
